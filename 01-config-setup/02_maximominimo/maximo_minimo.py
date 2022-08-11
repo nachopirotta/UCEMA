@@ -3,7 +3,7 @@
 
 
 def mediana(arr):
-    # Write your code here
+
     return [minimo, maximo]
 
 
